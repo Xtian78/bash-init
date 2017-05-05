@@ -11,4 +11,4 @@ alias pd='pushd'
 alias po='popd'
 
 alias h='history'
-#dpkg query -l
+alias fs='sudo find / -name'
