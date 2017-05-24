@@ -12,3 +12,4 @@ alias po='popd'
 
 alias h='history'
 alias fs='sudo find / -name'
+alias fp='sudo find . -name'
